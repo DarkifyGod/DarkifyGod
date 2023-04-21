@@ -12,7 +12,7 @@
 <details>
 <summary>Workstation</summary>
 <li>
-CPU: <a href="https://www.newegg.com/intel-core-i7-3rd-gen-core-i7-3770/p/N82E16819116502" rel="nofollow">Intel i7-3770</a>
+CPU: <a href="https://www.amazon.com/AMD-5500-12-Thread-Unlocked-Processor/dp/B09VCJ171S/ref=asc_df_B09VCJ171S/" rel="nofollow">Ryzen 5 5500</a>
 </li>
   
 <li>

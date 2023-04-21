@@ -20,11 +20,11 @@ GPU: <a href="https://www.amazon.com/MSI-GTX-1650-OC-Ventus/dp/B086VR4VHX/ref=sr
 </li>
   
 <li>
-RAM: <a href="https://www.amazon.com/Patriot-Signature-PC3-12800-1600MHz-Heatshield/dp/B007HZTD86/ref=sr_1_3" rel="nofollow">Patriot Memory 1600Mhz 2x8GB</a>
+RAM: <a href="https://www.amazon.com/Corsair-Vengeance-PC4-28800-Desktop-Memory/dp/B07TB3R9JB/ref=sr_1_2" rel="nofollow">Corsair Vengeance RGB Pro 16GB (2x8GB) DDR4 3600</a>
 </li>
   
 <li>
-Motherboard: <a href="https://www.amazon.com/GY6Y8-System-LGA1155-Optiplex-Minitower/dp/B014VU1MVU" rel="nofollow">DELL GY6Y8 (Optiplex 7010 MT 😅)</a>
+Motherboard: <a href="https://www.newegg.com/msi-b450-a-pro-max/p/N82E16813144268" rel="nofollow">MSI PRO B450-A PRO</a>
 </li>
   
 <li>
@@ -36,7 +36,7 @@ SSD: <a href="https://www.amazon.com/PNY-CS900-120GB-Internal-Solid/dp/B0722XPTL
 </li>
   
 <li>
-1TB HDD: <a href="https://www.newegg.com/p/1Z4-002P-022Y3" rel="nofollow">Seagate BarraCuda ST1000LM048 1 TB Hard Drive 2.5</a>
+1TB HDD: <a href="https://www.amazon.com/WD_BLACK-500GB-SN770-Internal-Gaming/dp/B09QVPCJN2/ref=sr_1_1" rel="nofollow">WD_BLACK 500GB SN770</a>
 </li>
 </details>
 
@@ -44,19 +44,19 @@ SSD: <a href="https://www.amazon.com/PNY-CS900-120GB-Internal-Solid/dp/B0722XPTL
 <details>
 <summary>Future Workstation</summary>
 <li>
-CPU: <a href="https://www.amazon.com/AMD-Ryzen-3600-12-Thread-Processor/dp/B07STGGQ18/ref=sr_1_1" rel+"nofollow"> Ryzen 5 3600</a>
+CPU: <a href="https://www.amazon.com/AMD-Ryzen-5800X-16-Thread-Processor/dp/B0815XFSGK/ref=sr_1_3" rel+"nofollow"> Ryzen 7 5800X</a>
 </li>
   
 <li>
-GPU: <a href="https://www.amazon.com/ASUS-NVIDIA-GeForce-Gaming-Graphics/dp/B09R9L6J71/ref=sr_1_2" rel="nofollow">ASUS Dual NVIDIA GeForce RTX 3050 OC Edition</a>
+GPU: <a href="https://www.amazon.com/XFX-Speedster-Radeon-Graphics-RX-66XL8LFDQ/dp/B09HHLX543/ref=sr_1_2" rel="nofollow">XFX Speedster SWFT 210 Radeon RX 6600</a>
 </li>
 
 <li>
-RAM: <a href="https://www.newegg.com/g-skill-16gb-288-pin-ddr4-sdram/p/N82E16820232731" rel="nofollow">G.SKILL Ripjaws V Series 16GB (2 x 8GB) </a>
+RAM: <a href="https://www.amazon.com/Corsair-Vengeance-3600MHz-PC4-28800-Desktop/dp/B08SPYCCF1/ref=sr_1_14" rel="nofollow">Corsair Vengeance RGB Pro SL 32GB</a>
 </li>
   
 <li>
-Motherboard: <a href="https://www.amazon.com/MSI-Crossfire-Motherboard-Tomahawk-B450TOMAMAX/dp/B07WF6ZQST/ref=sr_1_1" rel="nofollow"> B450 TOMAHAWK MAX II </a>
+Motherboard: <a href="https://www.amazon.com/MSI-B550-VC-ProSeries-Motherboard-DDR4/dp/B0BDC34ZHY/ref=sr_1_1" rel="nofollow"> MSI PRO B550-VC </a>
 </li>
   
 <li>
@@ -68,7 +68,7 @@ SSD: <a href="https://www.amazon.com/PNY-CS900-Internal-Solid-State/dp/B07Y5VDNT
 </li>
   
 <li>
-PSU: <a href="https://www.amazon.com/dp/B079HGL413/ref=twister_B098DSFTQM" rel="nofollow"> Corsair RMX Series (2018), RM550x </a>
+PSU: <a href="https://www.amazon.com/Corsair-RM850x-Fully-Modular-Supply/dp/B08R5JPTMZ/ref=sr_1_1" rel="nofollow"> RM850x, 850 Watt </a>
 </li>
 
 <li>

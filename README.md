@@ -16,7 +16,7 @@ CPU: <a href="https://www.amazon.com/AMD-5500-12-Thread-Unlocked-Processor/dp/B0
 </li>
   
 <li>
-GPU: <a href="https://www.amazon.com/MSI-GTX-1650-OC-Ventus/dp/B086VR4VHX/ref=sr_1_1_mod_primary_new" rel="nofollow">GeForce GTX 1650 VENTUS XS 4G OC</a>
+GPU: <a href="https://www.amazon.com/Sapphire-Technology-11310-01-20G-Radeon-Graphics/dp/B09JHRQY4Y/ref=sr_1_5" rel="nofollow">Radeon RX 6600 8GB</a>
 </li>
   
 <li>
